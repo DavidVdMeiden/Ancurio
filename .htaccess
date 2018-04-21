@@ -1,0 +1,18 @@
+Options +FollowSymLinks
+
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+### Xampp - Local / Server Root
+RewriteRule . /index.php [L]
+
+### Xampp - Online via DDNS
+#RewriteRule . ancurio/index.php [L]
+
+</IfModule>
+# END WordPress

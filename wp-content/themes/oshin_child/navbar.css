@@ -1,0 +1,194 @@
+/* Nav bar */
+
+span.showonmobile {
+	visibility: hidden;
+	display: none;
+}
+
+span.hideonmobile {
+	visibility: visible;
+	display: inline-block;
+}
+
+.filters {
+	/*background: linear-gradient(to right,  #ddd 0%,#fff 50%,#ddd 100%) #ddd !important;*/
+	padding: 0px !important;
+	/*margin: 0px !important;*/
+	display: block;
+}
+
+.tribe-events-sub-nav li {
+	display: inline-block !important;
+	margin-bottom: 0px !important;
+	width: 33.33333%;
+	box-sizing: border-box !important;
+}
+
+.tribe-events-sub-nav li a {
+	display: inline-block !important;
+	display:table-cell;
+	vertical-align: middle;
+}
+
+.tribe-events-nav-previous a,
+.tribe-events-nav-next a,
+.single-page-nav.style2-navigation .previous-post-link h6,
+.single-page-nav.style2-navigation .next-post-link h6 {
+    font-size: 15px !important;
+    font-weight: 600 !important;
+    opacity: 1 !important;
+    display: inline-block  !important;
+    color: #3cf !important;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin: 0px !important;
+    padding: 0px !important;
+}
+
+.tribe-events-list-separator-month span {
+	font-size: 15px !important;
+	color: #fff !important;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.single-page-nav.style2-navigation .previous-post-link {
+    text-align: left;
+    margin-left: 7% !important;
+}
+
+.single-page-nav.style2-navigation .next-post-link {
+    text-align: right;
+    margin-right: 7% !important;
+}
+
+.single-page-nav.style2-navigation .previous-post-link .font-icon {
+    margin-right: 30px !important;
+}
+
+.single-page-nav.style2-navigation .next-post-link .font-icon {
+    margin-left: 30px !important;
+}
+
+.tribe-events-nav-previous {
+    text-align: left;
+    padding-left: 7% !important;
+}
+
+.tribe-events-nav-next {
+    text-align: right;
+    padding-right: 7% !important;
+}
+
+.tribe-events-list-separator-month {
+    padding: 5px !important;
+    margin: 0px !important;
+}
+
+.tribe-events-sub-nav li {
+	background: none !important;
+}
+
+	.tribe-events-nav-previous a, 
+	.tribe-events-nav-back a,
+	.tribe-events-nav-next a {
+		line-height: 30px !important;
+	}
+
+
+.tribe-events-nav-previous,
+.tribe-events-nav-next,
+.portfolio-nav-wrap,
+.portfolio-nav-wrap a {
+	 /*padding: 3px !important;*/
+	 margin: 0px !important;
+	 list-style: none !important;
+}
+
+
+.tribe-events-sub-nav {
+	padding:5px;
+}
+
+.tribe-events-sub-nav .font-icon,
+html body .single-page-nav.style2-navigation .font-icon,
+.single-page-nav.style2-navigation .next-post-link .font-icon, 
+.single-page-nav.style2-navigation .previous-post-link .font-icon {
+    font-size: 20px !important;
+    line-height: 30px;
+    display: inline-block  !important;
+    color: #3cf  !important;
+}
+
+.tribe-events-sub-nav .font-icon:before {
+	margin-top: 10px !important;
+}
+
+.tribe-events-sub-nav .tribe-events-nav-next .font-icon,
+.single-page-nav.style2-navigation .next-post-link i.font-icon {
+    transform: scaleX(-1);
+}
+
+.home-grid-icon {
+	/*display: none !important;*/
+	/*height: 0px;*/
+}
+
+.filters .sort {
+	color: #fff !important;
+	border: 0;
+	display: block;
+	text-transform: uppercase;
+}
+
+.filters .current_choice { 
+	color: #33ccff !important;
+	border: 2px !important;
+}
+
+@media only screen and (max-width: 960px) {
+	
+	.tribe-events-sub-nav li a {
+		background: none !important;
+	}
+	.single-page-nav.style2-navigation .previous-post-link,
+	.tribe-events-nav-previous {
+	    margin-left: 0% !important;
+	}
+
+	.single-page-nav.style2-navigation .next-post-link,
+	.tribe-events-nav-next {
+	    margin-right: 0% !important;
+	}
+	.tribe-events-nav-previous, 
+	.tribe-events-nav-back,
+	.tribe-events-nav-next
+/*	.single-page-nav.style2-navigation .previous-post-link, 
+	.single-page-nav.style2-navigation .next-post-link*/
+	 {
+	    display: inline-block !important;
+	    padding: 0px !important;
+	    background: none !important;
+	}
+
+	.tribe-events-sub-nav .tribe-events-nav-back {
+		display: none !important;
+		width: 0% !important;
+	}
+
+	.single-page-nav.style2-navigation .previous-post-link h6, 
+	.single-page-nav.style2-navigation .next-post-link h6,
+	.tribe-events-nav-previous span.hideonmobile,
+	.tribe-events-nav-next span.hideonmobile {
+		display: none !important;
+		visibility: hidden !important;
+	} 
+
+	.tribe-events-nav-previous span.showonmobile,
+	.tribe-events-nav-next span.showonmobile {
+		display: inline-block !important;
+		visibility: visible !important;
+	} 
+
+
+

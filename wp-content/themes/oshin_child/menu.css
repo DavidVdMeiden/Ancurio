@@ -1,0 +1,113 @@
+#navigation {
+	line-height: 25px !important;
+}
+
+#navigation a, 
+#navigation-right-side a,
+#navigation-left-side a {
+    padding: 0px 15px;
+}
+
+#navigation .menu a,
+#navigation .sub-menu a {
+	color: #9e1b7e !important;
+	font-weight: 600 !important;
+	letter-spacing: 1px !important;
+	font-size: 15px;
+	border-right: 1px dotted #3cf !important;
+	text-transform: uppercase;
+}
+
+#navigation .menu li:last-child a,
+#navigation .sub-menu li:last-child a {
+	border-right: 0px !important;
+}
+
+.menu li {
+	list-style: none !important;
+}
+
+#navigation .menu a:hover,
+#navigation .menu .current-menu-item a, 
+#navigation .sub-menu a:hover,
+#navigation .sub-menu .current-menu-item a, 
+#navigation .current-menu-parent,
+#mobile-menu a:hover {
+	color: #3cf !important;
+}
+
+#navigation .sub-menu {
+	/*width: auto !important;*/
+}
+
+/* Mobile */
+
+#mobile-menu, 
+#mobile-menu ul {
+    list-style: none;
+    margin-bottom: 0px !important;
+    padding: 20px !important;
+    margin-top: 0px !important;
+    text-align: center;
+    z-index: 5000 !important;
+    background-color: #515151;
+}
+
+#mobile-menu li {
+	position: relative;
+	margin-bottom: 8px;
+	
+}
+
+#mobile-menu li a {
+		padding: 8px 0px 8px 0px !important;
+	font-family: Raleway !important;
+	font-size: 16px !important;
+	color: #9e1b7e !important;
+	font-weight: bold;
+	/*border-bottom: 1px dotted #3cf;*/
+	/*padding: 0px 0px 1px 0px !important;*/
+}
+
+#mobile-menu .current_page_item,
+#mobile-menu li  {
+	background-color: #999 !important;
+	/*background: linear-gradient(to right,  #515151 0%,#444 50%,#515151 100%) #666 !important;*/
+	/*outline: 2px dotted #ddd !important;*/
+	outline-offset: -10px !important;
+	background: linear-gradient(to right,  #1af 0%,#2bf 50%,#1af 100%) #666 !important;
+	outline-offset: -5px;
+	/*outline: 1px dotted  #2bf;*/
+	text-shadow: 0px 0px 20px -5px rgba(0,0,0,0.5) !important;
+	background: linear-gradient(to left,  #ccc 0%,#eee 25%, #fff 50%,#eee 75%, #ccc 100%) #eee !important;
+}
+
+#mobile-menu .current_page_item a {
+	color: #3cf !important;
+	font-weight: bold;
+	border-bottom: 0px;
+}
+
+#mobile-menu .sub-menu {
+	background: #515151 !important;
+}
+
+#mobile-menu .sub-menu li {
+	padding: 10px;
+}
+
+.icon-icon_plus,
+.icon-search:before {
+	color: #fff !important;
+}
+
+/* Hamburger */
+.be-mobile-menu-icon,
+.be-mobile-menu-icon::before, 
+.be-mobile-menu-icon::after {
+	background-color: #ffffff !important;
+}
+
+
+
+

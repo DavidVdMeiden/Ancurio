@@ -1,0 +1,1022 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"magi",
+				"margin-bottom"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"out",
+				"outline"
+			],
+			[
+				"eco",
+				"echo\techo \"…\""
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"bottom",
+				"border-bottom"
+			],
+			[
+				"spac",
+				"letter-spacing"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"fonts",
+				"font-style"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"bacl",
+				"background-color"
+			],
+			[
+				"import",
+				"important"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"desc",
+				"description"
+			],
+			[
+				"pro",
+				"prices_low"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"prices",
+				"prices_high"
+			],
+			[
+				"date",
+				"date_start"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"pri",
+				"print_r"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"discou",
+				"discountprice"
+			],
+			[
+				"s",
+				"size"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"blo",
+				"block"
+			],
+			[
+				"is_n",
+				"is_null"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"backg",
+				"background-image"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"outline",
+				"outline-offset"
+			],
+			[
+				"boxs",
+				"box-sizing"
+			],
+			[
+				"tra",
+				"transform"
+			],
+			[
+				"font-st",
+				"font-style"
+			],
+			[
+				"utl",
+				"outline-offset"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"overf",
+				"overflow"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"outl",
+				"outline-offset"
+			],
+			[
+				"outlin",
+				"outline-width"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"pso",
+				"position"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"pai",
+				"padding"
+			],
+			[
+				"b",
+				"both"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"backgr",
+				"background-size"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"Fo",
+				"font-family"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"borde",
+				"border-right"
+			],
+			[
+				"overflow",
+				"overflow-wrap"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"wid",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "wp-content/themes/oshin_child/calendar-newsletter.css",
+			"settings":
+			{
+				"buffer_size": 5095,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "wp-content/themes/oshin_child/style.css",
+			"settings":
+			{
+				"buffer_size": 13547,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp-config.php",
+			"settings":
+			{
+				"buffer_size": 3983,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 89.0,
+		"last_filter": "LiveReload: Enable/disable plugins",
+		"selected_items":
+		[
+			[
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: add",
+				"Package Control: Add Channel"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"livereload eb",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"live",
+				"LiveReload: Self test"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"linter",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"lin enab",
+				"SublimeLinter: Enable Debug Mode"
+			],
+			[
+				"enab",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"pack rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"lin",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"enable",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"lint ",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"ena",
+				"SublimeLinter: Enable Linter"
+			],
+			[
+				"pac ",
+				"Package Control: Install Package"
+			],
+			[
+				"plug",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 565.0
+	},
+	"console":
+	{
+		"height": 483.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": true,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Projects/Websites/Ancurio/Web",
+		"/C/Projects/Websites/Ancurio/Web/wp-content",
+		"/C/Projects/Websites/Ancurio/Web/wp-content/themes",
+		"/C/Projects/Websites/Ancurio/Web/wp-content/themes/oshin_child"
+	],
+	"file_history":
+	[
+		"/C/PortablePrograms/Sublime Text 3/Data/Packages/Gist/Gist.sublime-settings",
+		"/C/Users/Adapt/AppData/Local/Temp/scp26527/customers/4/1/2/davidvandermeiden.nl/httpd.www/projects/ancurio/2017/wp-content/uploads/layout/Unused/deeppurple-bu.png",
+		"/C/Users/Adapt/Desktop/calendar.html",
+		"/C/Projects/Websites/Ancurio/Web/wp-content/themes/oshin_child/mediaqueries.css",
+		"/C/Projects/Websites/Ancurio/Web/wp-content/themes/oshin_child/style.css",
+		"/C/Projects/Websites/Ancurio/Web/wp-content/themes/oshin_child/calendar-newsletter.css",
+		"/C/Projects/Websites/Tasks/Web/index.html",
+		"/C/Users/Adapt/Desktop/derp.scss",
+		"/C/portableprograms/Xamp/apache/logs/access.log",
+		"/C/Projects/Websites/Ancurio/Web/wp-content/themes/oshin_child/calendar.css",
+		"/C/Projects/Websites/Ancurio/Web/wp-content/themes/oshin_child/navbar.css",
+		"/C/PortablePrograms/Xamp/phpMyAdmin/config.inc.php",
+		"/C/Projects/Websites/Ancurio/Web/wp-content/themes/oshin_child/tribe-events/single-event.php",
+		"/D/Archive/Projects/Websites/Playworking/Web/.htaccess",
+		"/C/Projects/Websites/Ancurio/Web/wp-content/themes/oshin_child/icons.css",
+		"/C/PortablePrograms/Xamp/htdocs/playworking/wp-config.php",
+		"/C/Projects/Websites/ElMaracuya/Web/wp-config.php",
+		"/C/Projects/Websites/Ancurio/Web/wp-content/themes/oshin/portfolio/gallery-content.php",
+		"/C/Projects/Websites/Ancurio/Web/wp-content/themes/oshin/single-portfolio.php",
+		"/C/Projects/Websites/Ancurio/Web/wp-content/themes/oshin/single-navigation.php",
+		"/C/Projects/Websites/Ancurio/Web/wp-content/themes/oshin_child/fonts/icomoon/style.css",
+		"/C/Projects/Websites/Ancurio/Web/wp-content/themes/oshin/portfolio/single-style2-portfolio.php",
+		"/C/Projects/Websites/Ancurio/Web/wp-content/themes/oshin_child/single-portfolio.php",
+		"/C/Projects/Websites/Ancurio/Web/wp-content/plugins/be-page-builder/be-page-builder.php",
+		"/C/Projects/Websites/Ancurio/Web/wp-content/plugins/be-page-builder/functions/shortcodes.php",
+		"/C/Projects/Websites/ElMaracuya/Web/wp-content/themes/oshin_child/style.scss",
+		"/C/Projects/Websites/ElMaracuya/Web/wp-content/themes/oshin_child/style.css",
+		"/C/PortablePrograms/Sublime Text 3/Data/Packages/SublimeOnSaveBuild/SublimeOnSaveBuild.sublime-settings",
+		"/C/Projects/Websites/ElMaracuya/Web/wp-content/themes/oshin_child/sass/style.scss",
+		"/C/Projects/Websites/ElMaracuya/Web/wp-content/themes/oshin_child/sass/style.css",
+		"/C/Projects/Websites/ElMaracuya/Web/wp-content/themes/oshin_child/hghghgh.html",
+		"/C/PortablePrograms/Sublime Text 3/Data/Packages/User/SublimeOnSaveBuild.sublime-settings",
+		"/C/PortablePrograms/Sublime Text 3/Data/Packages/User/JSON.sublime-settings",
+		"/C/Projects/Websites/ElMaracuya/Web/wp-content/themes/oshin_child/config.rb",
+		"/C/Users/Adapt/Desktop/index.html",
+		"/C/Users/Adapt/Desktop/style.css",
+		"/C/Users/Adapt/Desktop/style.sass",
+		"/C/PortablePrograms/Xamp/htdocs/maracuya/wp-activate.php",
+		"/C/Projects/Websites/ElMaracuya/Web/wp-content/themes/oshin_child/functions.php",
+		"/C/Projects/Websites/ElMaracuya/Web/wp-content/themes/oshin_child/404.php",
+		"/C/Projects/Websites/ElMaracuya/Web/wp-content/themes/index.php",
+		"/C/Projects/Websites/ElMaracuya/Web/.htaccess",
+		"/C/Projects/Websites/ElMaracuya/Web/wp-content/themes/oshin_child/layout.css",
+		"/C/Projects/Websites/ElMaracuya/Web/wp-content/updraft/.htaccess",
+		"/C/portableprograms/Xamp/apache/conf/httpd.conf",
+		"/C/Projects/Websites/Ancurio/Web/wp-content/themes/oshin_child/menu.css",
+		"/C/Projects/Websites/Ancurio/Web/wp-content/themes/oshin_child/footer.css",
+		"/C/Projects/Websites/Ancurio/Web/wp-content/themes/oshin_child/tribe-events/list/single-event.php",
+		"/C/Projects/Websites/Ancurio/Web/wp-content/plugins/contact-form-7/wp-contact-form-7.php",
+		"/C/Projects/Websites/Ancurio/Web/wp-config.php",
+		"/C/Projects/Websites/Ancurio/Web/wp-content/plugins/contact-form-7-mailchimp-extension/cf7-mch-ext.php",
+		"/C/Projects/Websites/Ancurio/Web/wp-content/themes/oshin_child/functions.php",
+		"/C/Projects/Websites/Ancurio/Web/wp-content/themes/oshin_child/tribe-events/list/nav.php",
+		"/C/Projects/Websites/Ancurio/Web/wp-content/themes/oshin_child/tribe-events/list/loop.php",
+		"/C/Projects/Websites/Ancurio/Web/wp-content/plugins/mailchimp-for-wp/includes/forms/class-form-message.php",
+		"/C/Projects/Websites/Ancurio/Web/wp-content/plugins/mailchimp-for-wp/includes/forms/class-form-tags.php",
+		"/C/Projects/Websites/Ancurio/Web/wp-content/plugins/mailchimp-for-wp/includes/forms/class-form.php",
+		"/C/Projects/Websites/Ancurio/Web/wp-content/plugins/mailchimp-for-wp/includes/forms/class-form-element.php",
+		"/C/Projects/Websites/Ancurio/Web/wp-content/themes/oshin_child/tribe-events/day/content.php",
+		"/C/Projects/Websites/Ancurio/Web/wp-content/themes/oshin_child/tribe-events/day/loop.php",
+		"/C/Projects/Websites/Ancurio/Web/wp-content/plugins/the-events-calendar/src/functions/template-tags/link.php",
+		"/C/Projects/Websites/Ancurio/Web/wp-content/plugins/the-events-calendar/src/functions/template-tags/day.php",
+		"/D/_Backups/Projects/Websites/LaPalma/Web/wp-config.php",
+		"/D/_Backups/Projects/Websites/LaPalma/Web/wp-content/themes/oshin_child/functions.php",
+		"/D/Archive/Projects/Websites/Playworking/Web/wp-content/themes/oshin_child/style.php",
+		"/D/Archive/Projects/Websites/Playworking/Web/wp-content/themes/oshin_child/style.css",
+		"/C/Projects/Websites/Ancurio/Web/wp-content/themes/oshin/portfolio.php",
+		"/C/Projects/Websites/Ancurio/Web/wp-content/themes/oshin/taxonomy-portfolio_categories.php",
+		"/C/Projects/Websites/Ancurio/Web/wp-content/themes/oshin/portfolio/single-style1-portfolio.php",
+		"/C/Projects/Websites/Ancurio/Web/wp-content/themes/oshin/portfolio/single-style1.php",
+		"/C/Projects/Websites/Ancurio/Web/wp-content/plugins/be-page-builder/functions/helpers.php",
+		"/C/Projects/Websites/Ancurio/Web/wp-content/plugins/be-portfolio-post/be-portfolio-post.php",
+		"/C/Projects/Websites/Ancurio/Web/wp-content/plugins/be-page-builder/functions/be-pb-ajax-handler.php",
+		"/C/Projects/Websites/Ancurio/Web/wp-content/themes/oshin/gallery.php",
+		"/C/Projects/Websites/Ancurio/Web/wp-content/themes/oshin/functions.php",
+		"/C/Users/Adapt/Desktop/in.html",
+		"/C/Projects/Websites/LaPalma/Web/wp-content/themes/oshin_child/functions.php",
+		"/C/Projects/Websites/Ancurio/Web/wp-content/themes/oshin/portfolio/single-style4.php",
+		"/C/Projects/Websites/Ancurio/Web/wp-content/plugins/the-events-calendar-shortcode/the-events-calendar-shortcode.php",
+		"/C/Projects/Websites/Ancurio/Web/wp-content/plugins/mailchimp-for-wp/mailchimp-for-wp.php",
+		"/C/Projects/Websites/Ancurio/Web/wp-content/plugins/the-events-calendar/lang/the-events-calendar-nl_NL.po",
+		"/C/Projects/Websites/Ancurio/Web/wp-content/plugins/the-events-calendar/lang/the-events-calendar-nl_NL.mo",
+		"/D/_Backups/Projects/Websites/LaPalma/Web/wp-content/themes/oshin_child/functions_conflict-20170907-115427.php",
+		"/C/Projects/Websites/LaPalma/Web/wp-content/themes/oshin_child/style_conflict-20170902-125359.css",
+		"/C/PortablePrograms/Xamp/htdocs/lapalma/wp-config.php",
+		"/C/PortablePrograms/Xamp/htdocs/lapalma/.htaccess",
+		"/C/portableprograms/Xamp/apache/logs/error.log",
+		"/C/Projects/Websites/Ancurio/Web/wp-content/themes/oshin_child/calendar-day-footer-backup.php",
+		"/C/PortablePrograms/Sublime Text 3/Data/Packages/LiveReload/LiveReload.sublime-settings",
+		"/C/portableprograms/Xamp/mysql/bin/my.ini",
+		"/C/portableprograms/Xamp/php/php.ini",
+		"/D/Projects/Websites/Ancurio/Web-11-9-2017/wp-config.php",
+		"/D/Projects/Websites/Ancurio/Web/wp-content/themes/oshin_child/style.css",
+		"/C/Users/David/AppData/Local/Temp/scp15377/customers/4/1/2/davidvandermeiden.nl/httpd.www/projects/ancurio/2017/wp-content/themes/oshin_child/style.css",
+		"/D/Projects/Websites/Ancurio/Web/wp-content/themes/oshin_child/calendar.css",
+		"/D/Projects/Websites/Ancurio/Web/wp-content/themes/oshin_child/tribe-events/list/single-event.php",
+		"/D/Projects/Websites/Ancurio/Web/wp-content/themes/oshin_child/tribe-events/single-event.php",
+		"/D/Projects/Websites/Ancurio/Web/wp-config.php",
+		"/C/Users/David/AppData/Local/Temp/scp15908/customers/4/1/2/davidvandermeiden.nl/httpd.www/projects/ancurio/2017/wp-config.php",
+		"/C/Users/David/AppData/Local/Temp/scp15657/customers/4/1/2/davidvandermeiden.nl/httpd.www/projects/ancurio/2017/.htaccess",
+		"/C/Users/David/AppData/Local/Temp/scp14702/customers/4/1/2/davidvandermeiden.nl/httpd.www/projects/ancurio/2017/wp-config.php",
+		"/C/Users/David/AppData/Local/Temp/scp13854/customers/4/1/2/davidvandermeiden.nl/httpd.www/projects/ancurio/2017/wp-content/uploads/layout/untitled.png",
+		"/D/Projects/Websites/Ancurio/Web/wp-content/plugins/revslider/includes/framework/base-admin.class.php",
+		"/C/Users/David/AppData/Local/Temp/scp15431/customers/4/1/2/davidvandermeiden.nl/httpd.www/projects/ancurio/2017/.htaccess",
+		"/D/Projects/Websites/Davidvandermeiden/Web/wp-config.php",
+		"/D/Projects/Websites/Ancurio/Web/wp-content/themes/oshin/css/be-themes-styles.php",
+		"/D/Projects/Websites/Ancurio/Web/wp-content/themes/oshin_child/backup.css",
+		"/D/Projects/Websites/Ancurio/Web/wp-content/plugins/the-events-calendar-shortcode/the-events-calendar-shortcode.php",
+		"/D/Projects/Websites/Ancurio/Web/wp-content/themes/oshin_child/404.php",
+		"/D/Projects/Websites/Ancurio/Web/wp-content/uploads/masterslider/custom.css",
+		"/D/Projects/Websites/Ancurio/Web/wp-config-sample.php",
+		"/D/Projects/Websites/Ancurio/Web/wp-activate.php",
+		"/D/Projects/Websites/Davidvandermeiden/Web/.htaccess",
+		"/D/Projects/Websites/LaPalma/Web/wp-config.php",
+		"/C/Users/David/AppData/Local/Temp/scp27007/customers/4/1/2/davidvandermeiden.nl/httpd.www/projects/ancurio/2017/wp-config.php",
+		"/D/Projects/Websites/Ancurio/Web/.htaccess",
+		"/D/Projects/Websites/Ancurio/Web/htaccess.txt",
+		"/D/Projects/Websites/Ancurio/Data/Design/2016/Mockups/index.html",
+		"/D/Projects/Websites/Ancurio/Data/Design/2016/Mockups/Macaw/Layout/index.html",
+		"/D/Projects/Websites/Ancurio/Web/wp-content/themes/oshin_child/footer.css",
+		"/D/Projects/Websites/Ancurio/Web/wp-content/themes/oshin_child/navbar.css",
+		"/D/Projects/Websites/Ancurio/Web/wp-content/themes/oshin_child/functions.php",
+		"/D/Projects/Websites/Ancurio/Web/wp-includes/link-template.php",
+		"/D/Projects/Websites/Ancurio/Web/wp-content/themes/oshin/single-portfolio.php",
+		"/D/Projects/Websites/Ancurio/Web/wp-content/themes/oshin_child/tribe-events/modules/meta/map.php",
+		"/D/Projects/Websites/Ancurio/Web/wp-content/themes/oshin_child/tribe-events/modules/meta.php",
+		"/D/Projects/Websites/Ancurio/Web/wp-content/themes/oshin_child/tribe-events/modules/map.php",
+		"/D/Projects/Websites/Ancurio/Web/wp-content/plugins/the-events-calendar/src/functions/template-tags/link.php"
+	],
+	"find":
+	{
+		"height": 64.0
+	},
+	"find_in_files":
+	{
+		"height": 168.0,
+		"where_history":
+		[
+			"",
+			"C:\\Projects\\Websites\\Ancurio\\Web\\wp-content\\themes\\oshin_child",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"logo",
+			"portfolio",
+			"line-he",
+			"home-grid-icon",
+			"portfolio-nav-wrap ",
+			"thumb-w",
+			"outl",
+			"thumb-wrap ",
+			" thumb-wrap  ",
+			"portfolio",
+			"filt",
+			"portfolio-all-wrap",
+			"style7-title",
+			"bottom-wid",
+			"h6",
+			"widget",
+			"fancy",
+			"sepa",
+			"50px",
+			"menu",
+			"logo",
+			"sepa",
+			"content",
+			"input",
+			".column-block",
+			"header",
+			"label",
+			"la",
+			"textarea",
+			"label",
+			"button",
+			"$google_map_api_key",
+			"maps.googleapis.com/maps/api",
+			"tribe-event-time",
+			"be-but",
+			"icon",
+			"custom",
+			"be-but",
+			"logo",
+			"#444",
+			"444",
+			"max-w",
+			"15px",
+			"back",
+			"16px",
+			"map",
+			"button",
+			"filters",
+			"header",
+			".menu a",
+			".menu a,\n.sub-menu a",
+			"mobile-menu",
+			"menu",
+			"mobile",
+			"moble",
+			"fancy",
+			"month",
+			"mont",
+			"fanc",
+			"menu",
+			"input",
+			"menu a",
+			"map",
+			"menu",
+			"widge",
+			"fancy",
+			"button",
+			"newslett",
+			"button",
+			"newsletter",
+			"newsle",
+			"<!-- / MailChimp for WordPress Plugin -->",
+			"fanc",
+			"month",
+			"tp",
+			"444",
+			"fancy",
+			"z-in",
+			"z",
+			"header",
+			"tribe-events-list-separator-month",
+			"news",
+			"erinyen",
+			"month",
+			".tribe-events-list-separator-month",
+			"month",
+			"tp",
+			"fanc",
+			"newsl",
+			"font-icon icon-arrow-left7",
+			"tribe-events-nav-previous",
+			"$tribe_ecp->getLink",
+			"tribe_the_day_link",
+			"bar",
+			"nav",
+			"textare",
+			"copy-shortcode",
+			"textare",
+			"fancy",
+			"transparent",
+			"tribe-events-list-event-description",
+			"venue",
+			"wrap",
+			"form",
+			"element be-hoverlay",
+			"\"",
+			"outline",
+			"be-butt",
+			"fanc",
+			"portfolio category",
+			"portfolio categories",
+			"arrow",
+			" be",
+			" butt",
+			" be",
+			" be-but",
+			"thumb",
+			"be-b",
+			"new",
+			"be-b",
+			"nav",
+			"thumb",
+			"filt",
+			"555",
+			"thumb",
+			"sub",
+			"at",
+			"z-inde"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'",
+			"3789cd",
+			"b62c7d",
+			"22",
+			"88",
+			"110",
+			"95"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "wp-content/themes/oshin_child/calendar-newsletter.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5095,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								604,
+								604
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 6696.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "wp-content/themes/oshin_child/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13547,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5705,
+								5705
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 6611.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "wp-config.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3983,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1405.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 46.0
+	},
+	"input":
+	{
+		"height": 78.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 57.0
+	},
+	"output.exec":
+	{
+		"height": 53.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Ancurio.sublime-project",
+	"replace":
+	{
+		"height": 87.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\Projects\\Websites\\Davidvandermeiden\\Web\\DVDM.sublime-project"
+			]
+		],
+		"width": 475.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 430.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

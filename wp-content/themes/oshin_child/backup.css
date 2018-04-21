@@ -1,0 +1,37 @@
+.red h1:first-letter,
+.grey h1:first-letter,
+.newsletter-form h1:first-letter  {
+/*	font-family: 'Great Vibes' !important;
+	padding: 0px 6px 0px 0px !important;
+	vertical-align: middle;*/
+}
+
+.red h2:first-letter,
+.grey h2:first-letter,
+.newsletter-form h2:first-letter  {
+/*	font-family: 'Perfograma' !important;
+	padding: 0px 1px 15px 0px !important;
+	margin: 0 !important;
+	font-weight: 100;
+	font-size:30px;*/
+}
+
+.drawers::after {
+/*	display: inline;
+	content:" ";
+    position:absolute !important;
+    top:0;
+    right:0;
+    bottom:0;
+    left:0;
+	background: url('../../uploads/layout/drawers.png') center center no-repeat !important;
+	background-size: cover !important;
+	opacity: 0.4;*/
+}
+
+
+	/*background: url('../../uploads/layout/Adriana_Lima-1.jpg') top center no-repeat !important;*/
+	/*background: url('../../uploads/layout/alice_may.jpg') center center no-repeat !important;*/
+	/*background: url('../../uploads/layout/bg.jpg') center center repeat !important;*/
+	/*background: url('../../uploads/layout/nina.jpg') center center no-repeat !important;*/
+	/*background: url('../../uploads/layout/nina.jpg') right center no-repeat !important;*/
